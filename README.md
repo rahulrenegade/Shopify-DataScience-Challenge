@@ -1,2 +1,2 @@
 # Shopify_DS_Challenge
-Data Science challeng by Shopify
+Data Science challenge by Shopify
